@@ -1,0 +1,1 @@
+# Documentation pictures go here
